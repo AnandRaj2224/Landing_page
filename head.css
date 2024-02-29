@@ -1,0 +1,16 @@
+div{
+  border: 1px solid black;
+  margin: 0px;
+  padding: 0px;
+}
+.header-row{
+  display: flex;
+  justify-content: space-between;
+}
+.header-content{
+  display: flex;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+}
