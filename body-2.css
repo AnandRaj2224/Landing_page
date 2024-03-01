@@ -1,0 +1,24 @@
+.body2-container div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 36px;
+  color: #1f2937;
+   font-style: italic;
+   font-weight: 300;
+}
+.qoute-container{
+  background-color: #e5e7eb;
+}
+.author{
+  font-weight: bold;
+  font-size: 25px;
+}
+.qoute1{
+  padding-top: 60px;
+  margin-bottom: 20px;
+}
+.qoute2{
+  padding-bottom: 50px;
+  margin-bottom: 20px;
+}
