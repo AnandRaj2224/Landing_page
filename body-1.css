@@ -1,0 +1,15 @@
+.body-container-1 {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.body-container-1 div{
+  border: 1px solid black;
+}
+.body1-img-block{
+  display: flex;
+}
+.body-pics{
+  display: flex;
+  flex-direction: column;
+}
