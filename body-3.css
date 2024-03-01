@@ -1,0 +1,45 @@
+.body3-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 340px;
+}
+.content{
+  display: flex;
+  flex-direction: row;
+  width: 800px;
+  justify-content: center;
+  align-items: center;
+  background-color: #3882F6;
+  padding: 30px 30px 30px 30px;
+  border-radius: 10px;
+  margin: 0px;
+}
+.text-content{
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin-right: 100px;
+}
+.text1{
+  font-size: 24px;
+  color: #F9FAF8;
+  font-weight: bold;
+}
+.text2{
+  color: #F9FAF8;
+  font-weight: 300;
+}
+.but2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+}
+.buttons2{
+  padding: 5px 20px 5px 20px;
+  background-color: #3882F6;
+  border: 2px solid #F9FAF8;
+  color: #F9FAF8;
+  border-radius: 5px;
+}
