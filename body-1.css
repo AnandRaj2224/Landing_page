@@ -2,14 +2,23 @@
   margin-top: 50px;
   display: flex;
   flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
 }
 .body-container-1 div{
   border: 1px solid black;
 }
 .body1-img-block{
   display: flex;
+  column-gap: 40px;
 }
 .body-pics{
   display: flex;
   flex-direction: column;
+  height: 160px;
+  width: 110px;
+}
+.body-image{
+  height: 110px;
+  width: 110px;
 }
